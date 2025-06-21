@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import { Search } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import React, { useState, useEffect } from "react";
+import { Search } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 
 const backgrounds = [
-  'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80',
-  'https://images.unsplash.com/photo-1517504734587-2890819debab?auto=format&fit=crop&q=80'
+  "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1517504734587-2890819debab?auto=format&fit=crop&q=80",
 ];
 
 export default function Hero() {
@@ -35,12 +35,12 @@ export default function Hero() {
         <div
           key={index}
           className={`absolute inset-0 transition-opacity duration-1000 ${
-            index === currentBg ? 'opacity-100' : 'opacity-0'
+            index === currentBg ? "opacity-100" : "opacity-0"
           }`}
           style={{
             backgroundImage: `linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(${bg})`,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center'
+            backgroundSize: "cover",
+            backgroundPosition: "center",
           }}
         />
       ))}
@@ -64,7 +64,9 @@ export default function Hero() {
         {/* Search Bar */}
         <div
           className={`transform transition-all duration-500 ease-out ${
-            searchVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'
+            searchVisible
+              ? "translate-y-0 opacity-100"
+              : "translate-y-10 opacity-0"
           }`}
         >
           <div className="relative">
@@ -95,7 +97,7 @@ export default function Hero() {
 
             {/* Recommend Colleges Button - Pink to Purple */}
             <button
-              onClick={() => navigate('/recommend')}
+              onClick={() => navigate("/recommend")}
               className="px-8 py-3 bg-gradient-to-r from-pink-500 to-purple-600 
                 rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg"
             >

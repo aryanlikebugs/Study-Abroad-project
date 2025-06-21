@@ -1,4 +1,3 @@
-
 //updated after backend data integration
 import { useState, useEffect } from "react";
 import axios from "axios";
@@ -38,7 +37,10 @@ export default function Programs() {
     setLoading(true);
     setTimeout(() => {
       const nextPage = page + 1;
-      const newVisiblePrograms = allPrograms.slice(0, nextPage * programsPerPage);
+      const newVisiblePrograms = allPrograms.slice(
+        0,
+        nextPage * programsPerPage
+      );
       setVisiblePrograms(newVisiblePrograms);
       setPage(nextPage);
       setLoading(false);

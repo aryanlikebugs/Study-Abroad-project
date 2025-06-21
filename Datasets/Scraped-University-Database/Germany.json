@@ -1,0 +1,684 @@
+[
+    {
+      "collegeName": "Technical University of Munich (TUM)",
+      "location": "Munich, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship",
+        "TUM Merit Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "collegeName": "Technical University of Berlin (TU Berlin)",
+      "location": "Berlin, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Technology",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Scientific Computing"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TU Berlin International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized secondary/bachelor’s degree, proof of language proficiency (IELTS 6.5/TOEFL 80), and a strong academic record."
+    },
+    {
+      "collegeName": "RWTH Aachen University",
+      "location": "Aachen, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computational Engineering Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "RWTH International Merit Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized school leaving or bachelor’s degree and provide proof of English proficiency (IELTS 6.5/TOEFL 80) along with meeting subject-specific entry requirements."
+    },
+    {
+      "collegeName": "Ludwig Maximilian University of Munich (LMU)",
+      "location": "Munich, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computational Linguistics"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "LMU International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized secondary or bachelor’s degree, meet language proficiency requirements (IELTS/TOEFL), and fulfill additional academic criteria."
+    },
+    {
+      "collegeName": "Karlsruhe Institute of Technology (KIT)",
+      "location": "Karlsruhe, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Technology",
+        "M.Sc. in Computer Science",
+        "M.Sc. in IT Security"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "KIT Excellence Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must possess a recognized secondary/bachelor’s degree and demonstrate language proficiency (minimum IELTS 6.5/TOEFL 80) plus strong academic credentials."
+    },
+    {
+      "collegeName": "Technical University of Darmstadt (TU Darmstadt)",
+      "location": "Darmstadt, Hesse, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Systems",
+        "M.Sc. in Computer Science",
+        "M.Sc. in IT Security"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TU Darmstadt International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized degree with proof of English or German language proficiency (IELTS/TOEFL or TestDaF) and meet the specific admission requirements."
+    },
+    {
+      "collegeName": "Humboldt University of Berlin",
+      "location": "Berlin, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Humboldt University International Grant"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International candidates must submit a recognized high school or bachelor’s certificate along with proof of language skills (IELTS 6.5/TOEFL 80) and relevant academic transcripts."
+    },
+    {
+      "collegeName": "Technische Universität Dresden (TU Dresden)",
+      "location": "Dresden, Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Media Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TU Dresden International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree, proof of English (or German) proficiency, and must satisfy the program-specific prerequisites."
+    },
+    {
+      "collegeName": "University of Erlangen-Nuremberg (FAU)",
+      "location": "Erlangen/Nuremberg, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Data Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "FAU International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic degree, proof of language proficiency (IELTS/TOEFL), and meet all additional academic criteria as specified by the program."
+    },
+    {
+      "collegeName": "University of Stuttgart",
+      "location": "Stuttgart, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Stuttgart University International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International students must provide evidence of a recognized secondary/bachelor’s degree, language proficiency (IELTS 6.5/TOEFL 80), and satisfy program-specific requirements."
+    },
+    {
+      "collegeName": "Saarland University",
+      "location": "Saarbrücken, Saarland, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Communications Technology"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Saarland University International Grant"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree and prove proficiency in English (or German) through IELTS, TOEFL or equivalent tests."
+    },
+    {
+      "collegeName": "University of Potsdam",
+      "location": "Potsdam, Brandenburg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Digital Engineering",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Potsdam International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must present a recognized academic qualification along with proof of language proficiency (IELTS/TOEFL) and fulfill additional admission requirements."
+    },
+    {
+      "collegeName": "University of Bonn",
+      "location": "Bonn, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Bonn International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International applicants should have a recognized secondary/bachelor’s degree, documented language proficiency (IELTS 6.5/TOEFL 80), and meet the academic criteria of the program."
+    },
+    {
+      "collegeName": "University of Freiburg",
+      "location": "Freiburg im Breisgau, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Freiburg International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized academic certificate, proof of language proficiency (minimum IELTS 6.5/TOEFL 80), and meet the program-specific entry requirements."
+    },
+    {
+      "collegeName": "Bundeswehr University Munich",
+      "location": "Munich, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "Ph.D. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Bundeswehr University Merit Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized degree and demonstrate proficiency in English (or German) as per the required scores along with strong academic records."
+    },
+    {
+      "collegeName": "Reutlingen University",
+      "location": "Reutlingen, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Systems",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Reutlingen International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized high school/bachelor’s degree and must submit proof of language proficiency (IELTS/TOEFL) along with other academic documents."
+    },
+    {
+      "collegeName": "Karlsruhe University of Applied Sciences (HKA)",
+      "location": "Karlsruhe, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Technology",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "HKA International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must provide a recognized school leaving/bachelor’s certificate, proof of English proficiency (IELTS 6.5/TOEFL 80), and meet technical subject requirements."
+    },
+    {
+      "collegeName": "Fachhochschule Wedel University of Applied Sciences",
+      "location": "Wedel, Schleswig-Holstein, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Cyber Security",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "State-funded Scholarships",
+        "DAAD Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree and demonstrate sufficient language proficiency (IELTS/TOEFL) as well as meet additional criteria set by the university."
+    },
+    {
+      "collegeName": "Hochschule Furtwangen University",
+      "location": "Furtwangen, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in IT Engineering",
+        "M.Sc. in Cyber Security"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "University of Applied Sciences Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International students must present a recognized academic qualification, pass language tests (IELTS/TOEFL), and meet the course-specific prerequisites."
+    },
+    {
+      "collegeName": "Trier University of Applied Sciences",
+      "location": "Trier, Rhineland-Palatinate, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Secure and Mobile Systems",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Trier International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates should have a recognized secondary/bachelor’s certificate and provide proof of language proficiency (IELTS/TOEFL) plus meet course prerequisites."
+    },
+    {
+      "collegeName": "Hochschule Augsburg (University of Applied Sciences Augsburg)",
+      "location": "Augsburg, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "State and University Scholarships",
+        "DAAD Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic degree and proof of language proficiency (minimum IELTS 6.5/TOEFL 80) and fulfill additional subject-specific requirements."
+    },
+    {
+      "collegeName": "Hochschule München (Munich University of Applied Sciences)",
+      "location": "Munich, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Systems",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "University of Applied Sciences Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International applicants must provide a recognized high school/bachelor’s certificate and sufficient language proficiency (IELTS/TOEFL) as well as meet program requirements."
+    },
+    {
+      "collegeName": "Hochschule RheinMain (UAS RheinMain)",
+      "location": "Wiesbaden, Hesse, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "State Scholarships",
+        "DAAD Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must hold a recognized academic certificate and demonstrate language proficiency (IELTS 6.5/TOEFL 80) along with meeting additional academic criteria."
+    },
+    {
+      "collegeName": "Leibniz University Hannover",
+      "location": "Hanover, Lower Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "University Merit Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree and provide proof of language proficiency (IELTS 6.5/TOEFL 80) plus meet departmental requirements."
+    },
+    {
+      "collegeName": "University of Siegen",
+      "location": "Siegen, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "University of Siegen International Grant"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International candidates require a recognized academic degree and must meet language proficiency standards (IELTS/TOEFL) as well as subject-specific criteria."
+    },
+    {
+      "collegeName": "Technical University of Dortmund (TU Dortmund)",
+      "location": "Dortmund, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TU Dortmund International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must hold a recognized degree and submit language test scores (IELTS/TOEFL) along with meeting technical entry requirements."
+    },
+    {
+      "collegeName": "University of Duisburg-Essen",
+      "location": "Duisburg/Essen, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "University of Duisburg-Essen International Grant"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic certificate, proven language proficiency (IELTS/TOEFL), and meet all additional academic prerequisites."
+    },
+    {
+      "collegeName": "University of Bremen",
+      "location": "Bremen, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Bremen International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must possess a recognized secondary/bachelor’s degree and demonstrate language proficiency (IELTS/TOEFL) plus meet department-specific requirements."
+    },
+    {
+      "collegeName": "Justus Liebig University Giessen",
+      "location": "Giessen, Hesse, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Giessen International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized academic degree, proof of language proficiency (IELTS 6.5/TOEFL 80), and satisfy further subject-related criteria."
+    },
+    {
+      "collegeName": "University of Hildesheim",
+      "location": "Hildesheim, Lower Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Hildesheim International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree and prove language proficiency (IELTS/TOEFL) in addition to meeting additional entry requirements."
+    },
+    {
+      "collegeName": "University of Paderborn",
+      "location": "Paderborn, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Paderborn International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants require a recognized academic certificate and language proficiency (IELTS/TOEFL) along with meeting specific subject prerequisites."
+    },
+    {
+      "collegeName": "Clausthal University of Technology (TU Clausthal)",
+      "location": "Clausthal-Zellerfeld, Lower Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TU Clausthal International Grant"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized academic qualification, with language proficiency (IELTS/TOEFL) and subject-specific requirements fulfilled."
+    },
+    {
+      "collegeName": "University of Leipzig",
+      "location": "Leipzig, Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Data Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Leipzig International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree and provide valid language test scores (IELTS/TOEFL) along with meeting program-specific criteria."
+    },
+    {
+      "collegeName": "University of Hamburg",
+      "location": "Hamburg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Hamburg International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized academic degree, demonstrate language proficiency (IELTS/TOEFL), and meet additional subject requirements."
+    },
+    {
+      "collegeName": "University of Oldenburg",
+      "location": "Oldenburg, Lower Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Oldenburg International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized secondary/bachelor’s degree and provide proof of language proficiency (IELTS/TOEFL) plus meet other academic prerequisites."
+    },
+    {
+      "collegeName": "University of Rostock",
+      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Rostock International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized academic degree and provide evidence of language proficiency (minimum IELTS 6.5/TOEFL 80) along with meeting course-specific entry requirements."
+    },
+    {
+      "collegeName": "University of Ulm",
+      "location": "Ulm, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Ulm International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree and valid language proficiency (IELTS/TOEFL), plus additional subject-specific requirements."
+    },
+    {
+      "collegeName": "Technische Universität Chemnitz",
+      "location": "Chemnitz, Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TU Chemnitz International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must present a recognized academic degree along with proof of language proficiency (IELTS/TOEFL) and meet additional entry criteria."
+    },
+    {
+      "collegeName": "University of Kassel",
+      "location": "Kassel, Hesse, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Kassel International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International students must have a recognized academic certificate and provide language test scores (IELTS/TOEFL) in addition to meeting subject-specific prerequisites."
+    },
+    {
+      "collegeName": "University of Regensburg",
+      "location": "Regensburg, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Regensburg International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree, proof of language proficiency (IELTS/TOEFL), and meet the additional requirements specified by the program."
+    },
+    {
+      "collegeName": "Bergische Universität Wuppertal",
+      "location": "Wuppertal, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Wuppertal International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants require a recognized academic degree and must submit proof of language proficiency (minimum IELTS 6.5/TOEFL 80) along with meeting program requirements."
+    },
+    {
+      "collegeName": "Hochschule Bochum (Bochum University of Applied Sciences)",
+      "location": "Bochum, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "State and DAAD Scholarships"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree, proof of language proficiency (IELTS/TOEFL), and meet additional applied sciences requirements."
+    },
+    {
+      "collegeName": "University of Koblenz-Landau",
+      "location": "Koblenz, Rhineland-Palatinate, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Koblenz-Landau International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must present a recognized academic certificate and demonstrate language proficiency (IELTS/TOEFL) along with meeting further program requirements."
+    },
+    {
+      "collegeName": "University of Osnabrück",
+      "location": "Osnabrück, Lower Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Osnabrück International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree and provide evidence of language proficiency (IELTS/TOEFL) as well as meet additional academic criteria."
+    },
+    {
+      "collegeName": "Fulda University of Applied Sciences (Hochschule Fulda)",
+      "location": "Fulda, Hesse, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "State and DAAD Scholarships"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International students must have a recognized academic degree, valid language proficiency (IELTS/TOEFL), and meet additional program-specific requirements."
+    },
+    {
+      "collegeName": "Hochschule Zittau/Görlitz",
+      "location": "Zittau/Görlitz, Saxony, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Hochschule Zittau/Görlitz International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized secondary/bachelor’s degree and provide proof of language proficiency (minimum IELTS 6.5/TOEFL 80) along with meeting further entry criteria."
+    },
+    {
+      "collegeName": "Technische Hochschule Nürnberg",
+      "location": "Nuremberg, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "TH Nürnberg International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized academic qualification and provide proof of language proficiency (IELTS/TOEFL) along with satisfying subject-specific prerequisites."
+    },
+    {
+      "collegeName": "University of Mannheim",
+      "location": "Mannheim, Baden-Württemberg, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Data Science"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Mannheim International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must hold a recognized secondary/bachelor’s degree, demonstrate language proficiency (IELTS/TOEFL), and meet additional academic entry requirements."
+    },
+    {
+      "collegeName": "Hochschule Rhein-Waal",
+      "location": "Kamp-Lintfort, North Rhine-Westphalia, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Information Systems"
+      ],
+      "scholarshipsOffered": [
+        "State Scholarships",
+        "DAAD Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic degree and proof of language proficiency (minimum IELTS 6.5/TOEFL 80) in addition to meeting program-specific criteria."
+    },
+    {
+      "collegeName": "Hochschule Coburg",
+      "location": "Coburg, Bavaria, Germany",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "State and DAAD Scholarships",
+        "Hochschule Coburg International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International applicants must have a recognized secondary/bachelor’s certificate, demonstrate language proficiency (IELTS 6.5/TOEFL 80), and satisfy additional course requirements."
+    }
+  ]

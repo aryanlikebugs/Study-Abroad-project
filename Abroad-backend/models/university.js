@@ -1,3 +1,4 @@
+// This file defines the Mongoose schema for the University model.
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 

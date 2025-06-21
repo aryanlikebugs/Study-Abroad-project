@@ -1,11 +1,9 @@
-
 import React, { useState, useEffect } from "react";
-
 
 const backgrounds = [
   "https://images.unsplash.com/photo-1604808621558-b09365436e51?q=80&w=2080&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1501503069356-3c6b82a17d89?q=80&w=2070&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1547743052-3a5fec50cadf?q=80&w=2070&auto=format&fit=crop"
+  "https://images.unsplash.com/photo-1547743052-3a5fec50cadf?q=80&w=2070&auto=format&fit=crop",
 ];
 
 export default function Recommend() {
@@ -41,7 +39,7 @@ export default function Recommend() {
 
       const response = await fetch(apiUrl, {
         method: "GET",
-        headers: { "Content-Type": "application/json" }
+        headers: { "Content-Type": "application/json" },
       });
 
       if (!response.ok) {
@@ -62,11 +60,13 @@ export default function Recommend() {
           /Include details about.*?\./is,
           /My preferred country is.*?\./is,
           /My budget preference is.*?\./is,
-          /Please note that I am open to other universities.*?\./is
+          /Please note that I am open to other universities.*?\./is,
         ];
 
-        unwantedPatterns.forEach(pattern => {
-          formattedRecommendation = formattedRecommendation.replace(pattern, "").trim();
+        unwantedPatterns.forEach((pattern) => {
+          formattedRecommendation = formattedRecommendation
+            .replace(pattern, "")
+            .trim();
         });
 
         // **Remove extra newlines & spaces**
@@ -100,36 +100,54 @@ export default function Recommend() {
           style={{
             backgroundImage: `linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(${bg})`,
             backgroundSize: "cover",
-            backgroundPosition: "center"
+            backgroundPosition: "center",
           }}
         />
       ))}
 
       <div className="relative z-10 text-center text-white">
-        <h1 className="text-4xl md:text-5xl font-bold mb-6">Find Your Dream University</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-6">
+          Find Your Dream University
+        </h1>
 
         <div className="bg-black/50 p-6 md:p-8 rounded-xl backdrop-blur-md shadow-lg w-full max-w-lg">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <select className="p-3 rounded-lg bg-gray-800 text-white w-full" value={degree} onChange={(e) => setDegree(e.target.value)}>
+            <select
+              className="p-3 rounded-lg bg-gray-800 text-white w-full"
+              value={degree}
+              onChange={(e) => setDegree(e.target.value)}
+            >
               <option value="">Select Degree</option>
               <option value="bachelors">Bachelors</option>
               <option value="masters">Masters</option>
             </select>
 
-            <select className="p-3 rounded-lg bg-gray-800 text-white w-full" value={course} onChange={(e) => setCourse(e.target.value)}>
+            <select
+              className="p-3 rounded-lg bg-gray-800 text-white w-full"
+              value={course}
+              onChange={(e) => setCourse(e.target.value)}
+            >
               <option value="">Select Course</option>
               <option value="computer-science">Computer Science</option>
               <option value="engineering">Engineering</option>
             </select>
 
-            <select className="p-3 rounded-lg bg-gray-800 text-white w-full" value={country} onChange={(e) => setCountry(e.target.value)}>
+            <select
+              className="p-3 rounded-lg bg-gray-800 text-white w-full"
+              value={country}
+              onChange={(e) => setCountry(e.target.value)}
+            >
               <option value="">Select Country</option>
               <option value="germany">Germany</option>
               <option value="usa">USA</option>
               <option value="australia">Australia</option>
             </select>
 
-            <select className="p-3 rounded-lg bg-gray-800 text-white w-full" value={budget} onChange={(e) => setBudget(e.target.value)}>
+            <select
+              className="p-3 rounded-lg bg-gray-800 text-white w-full"
+              value={budget}
+              onChange={(e) => setBudget(e.target.value)}
+            >
               <option value="">Select Budget</option>
               <option value="low">Low</option>
               <option value="medium">Medium</option>
@@ -150,7 +168,9 @@ export default function Recommend() {
 
         {/* Display Recommendations */}
         <div className="mt-6 text-left bg-black/60 p-6 rounded-xl backdrop-blur-md max-w-3xl mx-auto">
-          <h2 className="text-2xl font-semibold mb-4">Recommended Universities:</h2>
+          <h2 className="text-2xl font-semibold mb-4">
+            Recommended Universities:
+          </h2>
           {loading ? (
             <p className="text-gray-300">Fetching recommendations...</p>
           ) : (

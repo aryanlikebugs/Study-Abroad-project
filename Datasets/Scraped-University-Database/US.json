@@ -1,0 +1,1600 @@
+[{
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59a4"
+    },
+    "collegeName": "Springfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59a5"
+    },
+    "collegeName": "Amherst",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59a6"
+    },
+    "collegeName": "Paxton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59a7"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59a8"
+    },
+    "collegeName": "Wellesley",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59a9"
+    },
+    "collegeName": "Great Barrington",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59aa"
+    },
+    "collegeName": "Longmeadow",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ab"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ac"
+    },
+    "collegeName": "Waltham",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ad"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ae"
+    },
+    "collegeName": "Pittsfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59af"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b0"
+    },
+    "collegeName": "Milton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b1"
+    },
+    "collegeName": "Chestnut Hill",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b2"
+    },
+    "collegeName": "Brookline",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b3"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b4"
+    },
+    "collegeName": "Waltham",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b5"
+    },
+    "collegeName": "Bridgewater",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b6"
+    },
+    "collegeName": "Fall River",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b7"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b8"
+    },
+    "collegeName": "Cambridge",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59b9"
+    },
+    "collegeName": "West Barnstable",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ba"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59bb"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59bc"
+    },
+    "collegeName": "Northampton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59bd"
+    },
+    "collegeName": "Milton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59be"
+    },
+    "collegeName": "Franklin",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59bf"
+    },
+    "collegeName": "Quincy",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c0"
+    },
+    "collegeName": "Chicopee",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c1"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c2"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c3"
+    },
+    "collegeName": "Beverly",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c4"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c5"
+    },
+    "collegeName": "Fitchburg",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c6"
+    },
+    "collegeName": "Framingham",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c7"
+    },
+    "collegeName": "Wenham",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c8"
+    },
+    "collegeName": "South Hamilton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59c9"
+    },
+    "collegeName": "Greenfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ca"
+    },
+    "collegeName": "Amherst",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59cb"
+    },
+    "collegeName": "Cambridge",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59cc"
+    },
+    "collegeName": "Newton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59cd"
+    },
+    "collegeName": "Brookline",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ce"
+    },
+    "collegeName": "Holyoke",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59cf"
+    },
+    "collegeName": "Cambridge",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d0"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d1"
+    },
+    "collegeName": "Newton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d2"
+    },
+    "collegeName": "Cambridge",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d3"
+    },
+    "collegeName": "Cambridge",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d4"
+    },
+    "collegeName": "Wellesley",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d5"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d6"
+    },
+    "collegeName": "North Adams",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d7"
+    },
+    "collegeName": "Cambridge",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d8"
+    },
+    "collegeName": "Bourne",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59d9"
+    },
+    "collegeName": "Andover",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59da"
+    },
+    "collegeName": "Brockton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59db"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59dc"
+    },
+    "collegeName": "North Andover",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59dd"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59de"
+    },
+    "collegeName": "Lowell",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59df"
+    },
+    "collegeName": "Beverly",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e0"
+    },
+    "collegeName": "South Hadley",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e1"
+    },
+    "collegeName": "Gardner",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e2"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e3"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e4"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e5"
+    },
+    "collegeName": "Dudley",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e6"
+    },
+    "collegeName": "Danvers",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e7"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e8"
+    },
+    "collegeName": "Haverhill",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59e9"
+    },
+    "collegeName": "Haverhill",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ea"
+    },
+    "collegeName": "Needham",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59eb"
+    },
+    "collegeName": "Weston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ec"
+    },
+    "collegeName": "Quincy",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ed"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ee"
+    },
+    "collegeName": "Weston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ef"
+    },
+    "collegeName": "Roxbury",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f0"
+    },
+    "collegeName": "Brighton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f1"
+    },
+    "collegeName": "Salem",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f2"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f3"
+    },
+    "collegeName": "Northampton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f4"
+    },
+    "collegeName": "Springfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f5"
+    },
+    "collegeName": "Springfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f6"
+    },
+    "collegeName": "Easton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f7"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f8"
+    },
+    "collegeName": "Medford",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59f9"
+    },
+    "collegeName": "Amherst",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59fa"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59fb"
+    },
+    "collegeName": "Dartmouth",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59fc"
+    },
+    "collegeName": "Lowell",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59fd"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59fe"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d59ff"
+    },
+    "collegeName": "Wellesley",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a00"
+    },
+    "collegeName": "Boston",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a01"
+    },
+    "collegeName": "Springfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a02"
+    },
+    "collegeName": "Westfield",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a03"
+    },
+    "collegeName": "Norton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a04"
+    },
+    "collegeName": "Newton",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a05"
+    },
+    "collegeName": "Williamstown",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a06"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  },
+  {
+    "_id": {
+      "$oid": "67e70ad89c746d51a45d5a07"
+    },
+    "collegeName": "Worcester",
+    "location": "Unknown",
+    "coursesOffered": [
+      "B.Sc. in Computer Science",
+      "M.Sc. in Computer Science"
+    ],
+    "scholarshipsOffered": [
+      "Fulbright Scholarship",
+      "Need-Based Aid"
+    ],
+    "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+  }]

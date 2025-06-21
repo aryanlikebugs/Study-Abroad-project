@@ -1,0 +1,612 @@
+[{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28503"
+  },
+  "collegeName": "RWTH Aachen University",
+  "location": "Aachen,North Rhine-Westphalia,Germany50°46′40″N6°04′41″E﻿ / ﻿50.77778°N 6.07806°E﻿ /50.77778; 6.07806",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28504"
+  },
+  "collegeName": "Technische Universität Berlin",
+  "location": "Berlin,Germany52°30′43″N13°19′35″E﻿ / ﻿52.51194°N 13.32639°E﻿ /52.51194; 13.32639",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28505"
+  },
+  "collegeName": "Brandenburg University of Technology",
+  "location": "CottbusandSenftenberg,Brandenburg,Germany",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28506"
+  },
+  "collegeName": "Braunschweig University of Technology",
+  "location": "Braunschweig,Lower Saxony,Germany52°16′25″N10°31′47″E﻿ / ﻿52.27361°N 10.52972°E﻿ /52.27361; 10.52972",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28507"
+  },
+  "collegeName": "Chemnitz University of Technology",
+  "location": "Chemnitz,Saxony,Germany50°48′49″N12°55′45″E﻿ / ﻿50.81361°N 12.92917°E﻿ /50.81361; 12.92917",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28508"
+  },
+  "collegeName": "Clausthal University of Technology",
+  "location": "Clausthal-Zellerfeld,Lower Saxony,Germany51°48′17″N10°20′04″E﻿ / ﻿51.80472°N 10.33444°E﻿ /51.80472; 10.33444",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28509"
+  },
+  "collegeName": "TU Dortmund University",
+  "location": "Dortmund,North Rhine-Westphalia,Germany51°29′33″N7°24′51″E﻿ / ﻿51.49250°N 7.41417°E﻿ /51.49250; 7.41417",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c2850a"
+  },
+  "collegeName": "Darmstadt University of Technology",
+  "location": "Darmstadt,Hessen,Germany49°52′30″N08°39′23″E﻿ / ﻿49.87500°N 8.65639°E﻿ /49.87500; 8.65639﻿ (Technische Universität Darmstadt)(inner city)49°51′40″N8°40′50″E﻿ / ﻿49.86113°N 8.68056°E﻿ /49.86113; 8.68056﻿ (Technische Universität Darmstadt)(Lichtwiese)",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c2850b"
+  },
+  "collegeName": "Dresden University of Technology",
+  "location": "Dresden,Saxony,Germany51°1′41″N13°43′36″E﻿ / ﻿51.02806°N 13.72667°E﻿ /51.02806; 13.72667",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c2850c"
+  },
+  "collegeName": "Freiberg University of Mining and Technology",
+  "location": "Freiberg,Germany",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c2850d"
+  },
+  "collegeName": "Hamburg University of Technology",
+  "location": "Unknown",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c2850e"
+  },
+  "collegeName": "Leibniz University Hannover",
+  "location": "Hanover,Lower Saxony,Germany52°22′56″N9°43′04″E﻿ / ﻿52.3822°N 9.7178°E﻿ /52.3822; 9.7178",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c2850f"
+  },
+  "collegeName": "Ilmenau University of Technology",
+  "location": "Ilmenau,Thuringia,Germany50°40′54″N10°56′20″E﻿ / ﻿50.68167°N 10.93889°E﻿ /50.68167; 10.93889",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28510"
+  },
+  "collegeName": "Kaiserslautern University of Technology",
+  "location": "Kaiserslautern,Rhineland-Palatinate,Germany",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28511"
+  },
+  "collegeName": "Karlsruhe Institute of Technology",
+  "location": "Karlsruhe,Baden-Württemberg,Germany49°00′34″N8°24′42″E﻿ / ﻿49.00944°N 8.41167°E﻿ /49.00944; 8.41167",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28512"
+  },
+  "collegeName": "Technical University of Munich",
+  "location": "Unknown",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd04caaf68aa5948c28513"
+  },
+  "collegeName": "University of Stuttgart",
+  "location": "Stuttgart,Baden-Württemberg,Germany48°46′54″N9°10′31″E﻿ / ﻿48.78167°N 9.17528°E﻿ /48.78167; 9.17528",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a1b"
+  },
+  "collegeName": "RWTH Aachen University",
+  "location": "Aachen,North Rhine-Westphalia,Germany50°46′40″N6°04′41″E﻿ / ﻿50.77778°N 6.07806°E﻿ /50.77778; 6.07806",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a1c"
+  },
+  "collegeName": "Technische Universität Berlin",
+  "location": "Berlin,Germany52°30′43″N13°19′35″E﻿ / ﻿52.51194°N 13.32639°E﻿ /52.51194; 13.32639",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a1d"
+  },
+  "collegeName": "Brandenburg University of Technology",
+  "location": "CottbusandSenftenberg,Brandenburg,Germany",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a1e"
+  },
+  "collegeName": "Braunschweig University of Technology",
+  "location": "Braunschweig,Lower Saxony,Germany52°16′25″N10°31′47″E﻿ / ﻿52.27361°N 10.52972°E﻿ /52.27361; 10.52972",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a1f"
+  },
+  "collegeName": "Chemnitz University of Technology",
+  "location": "Chemnitz,Saxony,Germany50°48′49″N12°55′45″E﻿ / ﻿50.81361°N 12.92917°E﻿ /50.81361; 12.92917",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a20"
+  },
+  "collegeName": "Clausthal University of Technology",
+  "location": "Clausthal-Zellerfeld,Lower Saxony,Germany51°48′17″N10°20′04″E﻿ / ﻿51.80472°N 10.33444°E﻿ /51.80472; 10.33444",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a21"
+  },
+  "collegeName": "TU Dortmund University",
+  "location": "Dortmund,North Rhine-Westphalia,Germany51°29′33″N7°24′51″E﻿ / ﻿51.49250°N 7.41417°E﻿ /51.49250; 7.41417",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a22"
+  },
+  "collegeName": "Darmstadt University of Technology",
+  "location": "Darmstadt,Hessen,Germany49°52′30″N08°39′23″E﻿ / ﻿49.87500°N 8.65639°E﻿ /49.87500; 8.65639﻿ (Technische Universität Darmstadt)(inner city)49°51′40″N8°40′50″E﻿ / ﻿49.86113°N 8.68056°E﻿ /49.86113; 8.68056﻿ (Technische Universität Darmstadt)(Lichtwiese)",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a23"
+  },
+  "collegeName": "Dresden University of Technology",
+  "location": "Dresden,Saxony,Germany51°1′41″N13°43′36″E﻿ / ﻿51.02806°N 13.72667°E﻿ /51.02806; 13.72667",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a24"
+  },
+  "collegeName": "Freiberg University of Mining and Technology",
+  "location": "Freiberg,Germany",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a25"
+  },
+  "collegeName": "Hamburg University of Technology",
+  "location": "Unknown",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a26"
+  },
+  "collegeName": "Leibniz University Hannover",
+  "location": "Hanover,Lower Saxony,Germany52°22′56″N9°43′04″E﻿ / ﻿52.3822°N 9.7178°E﻿ /52.3822; 9.7178",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a27"
+  },
+  "collegeName": "Ilmenau University of Technology",
+  "location": "Ilmenau,Thuringia,Germany50°40′54″N10°56′20″E﻿ / ﻿50.68167°N 10.93889°E﻿ /50.68167; 10.93889",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a28"
+  },
+  "collegeName": "Kaiserslautern University of Technology",
+  "location": "Kaiserslautern,Rhineland-Palatinate,Germany",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a29"
+  },
+  "collegeName": "Karlsruhe Institute of Technology",
+  "location": "Karlsruhe,Baden-Württemberg,Germany49°00′34″N8°24′42″E﻿ / ﻿49.00944°N 8.41167°E﻿ /49.00944; 8.41167",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a2a"
+  },
+  "collegeName": "Technical University of Munich",
+  "location": "Unknown",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+},
+{
+  "_id": {
+    "$oid": "67dd057017d3fbd6546e1a2b"
+  },
+  "collegeName": "University of Stuttgart",
+  "location": "Stuttgart,Baden-Württemberg,Germany48°46′54″N9°10′31″E﻿ / ﻿48.78167°N 9.17528°E﻿ /48.78167; 9.17528",
+  "coursesOffered": [
+    "B.Sc. in Computer Science",
+    "B.Sc. in Computer Engineering",
+    "M.Sc. in Computer Science",
+    "M.Sc. in Computer Engineering"
+  ],
+  "scholarshipsOffered": [
+    "DAAD Scholarship",
+    "Erasmus+ Scholarship"
+  ],
+  "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+}]

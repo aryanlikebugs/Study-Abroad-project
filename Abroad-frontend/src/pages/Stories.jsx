@@ -1,5 +1,3 @@
-
-
 import { useEffect, useState } from "react";
 
 export default function Stories() {
@@ -38,7 +36,8 @@ export default function Stories() {
       <div className="container mx-auto px-4 py-12 bg-white text-black">
         <h1 className="text-3xl font-bold text-center mb-4">Student Stories</h1>
         <p className="text-center mb-6 text-gray-600">
-          View the interactive heatmap to find out how many students and/or alumni are in or from a particular country  
+          View the interactive heatmap to find out how many students and/or
+          alumni are in or from a particular country
         </p>
 
         {/* Embedded Heatmap */}
@@ -61,8 +60,14 @@ export default function Stories() {
         <div className="mt-4 pt-4 text-center bg-white text-black">
           <h2 className="text-lg font-semibold">Facts</h2>
           <div className="mt-2 space-y-2">
-            <p>🎓 Many top universities offer scholarships for international students.</p>
-            <p>🌍 Countries like the USA, UK, and Canada have a high intake of foreign students.</p>
+            <p>
+              🎓 Many top universities offer scholarships for international
+              students.
+            </p>
+            <p>
+              🌍 Countries like the USA, UK, and Canada have a high intake of
+              foreign students.
+            </p>
             <p>🚀 Studying abroad can improve career opportunities globally.</p>
           </div>
         </div>

@@ -1,0 +1,10 @@
+react
+react-dom
+vite
+tailwindcss
+postcss
+autoprefixer
+framer-motion
+lucide-react
+react-router-dom
+axios

@@ -1,4 +1,4 @@
-import { Facebook, Twitter, Instagram, Linkedin, Send } from 'lucide-react';
+import { Facebook, Twitter, Instagram, Linkedin, Send } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -8,33 +8,77 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">About GlobalCSE</h3>
             <p className="text-gray-400">
-              Connecting aspiring Computer Science & Engineering students with world-class educational opportunities abroad.
+              Connecting aspiring Computer Science & Engineering students with
+              world-class educational opportunities abroad.
             </p>
           </div>
 
           <div>
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="/about" className="hover:text-white transition-colors">About Us</a></li>
-              <li><a href="/programs" className="hover:text-white transition-colors">Programs</a></li>
-              <li><a href="/blog" className="hover:text-white transition-colors">Blog</a></li>
-              <li><a href="/contact" className="hover:text-white transition-colors">Contact</a></li>
+              <li>
+                <a href="/about" className="hover:text-white transition-colors">
+                  About Us
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/programs"
+                  className="hover:text-white transition-colors"
+                >
+                  Programs
+                </a>
+              </li>
+              <li>
+                <a href="/blog" className="hover:text-white transition-colors">
+                  Blog
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/contact"
+                  className="hover:text-white transition-colors"
+                >
+                  Contact
+                </a>
+              </li>
             </ul>
           </div>
 
           <div>
             <h3 className="text-xl font-bold mb-4">Support</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="/help" className="hover:text-white transition-colors">Help Center</a></li>
-              <li><a href="/faqs" className="hover:text-white transition-colors">FAQs</a></li>
-              <li><a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a></li>
-              <li><a href="/terms" className="hover:text-white transition-colors">Terms of Service</a></li>
+              <li>
+                <a href="/help" className="hover:text-white transition-colors">
+                  Help Center
+                </a>
+              </li>
+              <li>
+                <a href="/faqs" className="hover:text-white transition-colors">
+                  FAQs
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/privacy"
+                  className="hover:text-white transition-colors"
+                >
+                  Privacy Policy
+                </a>
+              </li>
+              <li>
+                <a href="/terms" className="hover:text-white transition-colors">
+                  Terms of Service
+                </a>
+              </li>
             </ul>
           </div>
 
           <div>
             <h3 className="text-xl font-bold mb-4">Newsletter</h3>
-            <p className="text-gray-400 mb-4">Stay updated with the latest CSE opportunities</p>
+            <p className="text-gray-400 mb-4">
+              Stay updated with the latest CSE opportunities
+            </p>
             <div className="relative">
               <input
                 type="email"

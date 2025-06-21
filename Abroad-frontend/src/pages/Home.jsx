@@ -1,5 +1,5 @@
-import Hero from '../components/Hero';
-import ProgramCard from '../components/ProgramCard';
+import Hero from "../components/Hero";
+import ProgramCard from "../components/ProgramCard";
 
 export default function Home() {
   const featuredPrograms = [
@@ -10,8 +10,9 @@ export default function Home() {
       duration: "4 years",
       rating: 4.9,
       reviews: 250,
-      image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80",
-      price: "$52,000/year"
+      image:
+        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80",
+      price: "$52,000/year",
     },
     {
       title: "Software Engineering",
@@ -20,8 +21,9 @@ export default function Home() {
       duration: "4 years",
       rating: 4.8,
       reviews: 180,
-      image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80",
-      price: "$55,000/year"
+      image:
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80",
+      price: "$55,000/year",
     },
     {
       title: "AI & Machine Learning",
@@ -30,9 +32,10 @@ export default function Home() {
       duration: "2 years",
       rating: 4.7,
       reviews: 150,
-      image: "https://images.unsplash.com/photo-1517504734587-2890819debab?auto=format&fit=crop&q=80",
-      price: "€30,000/year"
-    }
+      image:
+        "https://images.unsplash.com/photo-1517504734587-2890819debab?auto=format&fit=crop&q=80",
+      price: "€30,000/year",
+    },
   ];
 
   return (

@@ -21,7 +21,13 @@ export default function About() {
 
         {/* About Content */}
         <p className="mt-6 text-lg text-gray-300 leading-relaxed">
-          Connecting aspiring <span className="text-purple-400 font-semibold">Computer Science & Engineering</span> students with world-class educational opportunities abroad. Our platform helps students find the best universities, programs, and locations tailored to their aspirations.
+          Connecting aspiring{" "}
+          <span className="text-purple-400 font-semibold">
+            Computer Science & Engineering
+          </span>{" "}
+          students with world-class educational opportunities abroad. Our
+          platform helps students find the best universities, programs, and
+          locations tailored to their aspirations.
         </p>
 
         {/* Features Section */}
@@ -32,7 +38,8 @@ export default function About() {
             <div>
               <h3 className="text-xl font-semibold">Global Reach</h3>
               <p className="text-gray-300 text-sm">
-                Explore top universities worldwide with AI-powered recommendations.
+                Explore top universities worldwide with AI-powered
+                recommendations.
               </p>
             </div>
           </div>
@@ -43,7 +50,8 @@ export default function About() {
             <div>
               <h3 className="text-xl font-semibold">AI-Powered System</h3>
               <p className="text-gray-300 text-sm">
-                Our recommendation model uses AI & Heatmaps to find the best matches.
+                Our recommendation model uses AI & Heatmaps to find the best
+                matches.
               </p>
             </div>
           </div>
@@ -54,7 +62,8 @@ export default function About() {
             <div>
               <h3 className="text-xl font-semibold">Student-Centric</h3>
               <p className="text-gray-300 text-sm">
-                Built for students, by students, with a focus on accessibility & ease of use.
+                Built for students, by students, with a focus on accessibility &
+                ease of use.
               </p>
             </div>
           </div>
@@ -63,9 +72,17 @@ export default function About() {
           <div className="flex items-center space-x-4 p-4 bg-purple-500/20 rounded-lg transition-transform hover:scale-105">
             <Code className="w-10 h-10 text-purple-400" />
             <div>
-              <h3 className="text-xl font-semibold">Built with Cutting-Edge Tech</h3>
+              <h3 className="text-xl font-semibold">
+                Built with Cutting-Edge Tech
+              </h3>
               <p className="text-gray-300 text-sm">
-                Developed using <span className="text-pink-400 font-medium">MERN Stack</span>, <span className="text-pink-400 font-medium">Vite</span>, and a <span className="text-pink-400 font-medium">Python Scraper Spider</span> for fetching real-time university data.
+                Developed using{" "}
+                <span className="text-pink-400 font-medium">MERN Stack</span>,{" "}
+                <span className="text-pink-400 font-medium">Vite</span>, and a{" "}
+                <span className="text-pink-400 font-medium">
+                  Python Scraper Spider
+                </span>{" "}
+                for fetching real-time university data.
               </p>
             </div>
           </div>

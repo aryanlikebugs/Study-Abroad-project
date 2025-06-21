@@ -118,7 +118,6 @@ router.post('/add-universities', async (req, res) => {
 });
 
 // Update User Profile (Authenticated Route)
-// Update User Profile (Authenticated Route)
 router.put('/update-profile', verifyToken, async (req, res) => {
   try {
     const { name, website, wishlist } = req.body;
@@ -172,6 +171,7 @@ router.put('/update-profile', verifyToken, async (req, res) => {
 //     res.status(500).json({ message: "Server error", error });
 //   }
 // });
+
 
 // api endpoint to Get universities without pagination
 router.get('/universities', async (req, res) => {

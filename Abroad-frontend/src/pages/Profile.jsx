@@ -1,196 +1,16 @@
-
-// import React, { useState, useEffect } from "react";
-// import { motion } from "framer-motion";
-// import { User, Mail, Globe, Flag, BookOpen, GraduationCap, Edit3, Save } from "lucide-react";
-
-// export default function Profile() {
-//   const dummyUser = {
-//     avatar: "",
-//     name: "User Name",
-//     email: "user@example.com",
-//     website: "www.example.com",
-//     country: "N/A",
-//     fieldOfStudy: "N/A",
-//     programType: "N/A",
-//   };
-
-//   const [user, setUser] = useState(null);
-//   const [isEditing, setIsEditing] = useState(false);
-//   const [formData, setFormData] = useState(dummyUser);
-
-//   const generateAvatar = (name) => {
-//     const sanitized = name.toLowerCase().replace(/\s+/g, "");
-//     return `https://api.dicebear.com/7.x/bottts/svg?seed=${sanitized}`;
-//   };
-
-//   useEffect(() => {
-//     setFormData((prevData) => ({ ...prevData, avatar: generateAvatar(prevData.name) }));
-//     setTimeout(() => {
-//       setUser(dummyUser);
-//     }, 1000);
-//   }, []);
-
-//   const handleChange = (e) => {
-//     const { name, value } = e.target;
-//     setFormData((prev) => ({ ...prev, [name]: value }));
-
-//     if (name === "name") {
-//       setFormData((prev) => ({ ...prev, avatar: generateAvatar(value) }));
-//     }
-//   };
-
-//   const handleEdit = () => {
-//     if (isEditing) {
-//       setUser(formData);
-//     }
-//     setIsEditing(!isEditing);
-//   };
-
-//   return (
-//     <div className="min-h-screen bg-black text-white flex flex-col items-center py-16">
-//       <motion.div
-//         className="bg-gray-900 p-8 rounded-2xl shadow-lg text-center w-[90%] md:w-2/3 lg:w-1/2 xl:w-1/3"
-//         initial={{ opacity: 0, scale: 0.8 }}
-//         animate={{ opacity: 1, scale: 1 }}
-//         transition={{ duration: 0.5 }}
-//       >
-//         {!user ? (
-//           <p className="text-gray-400 text-lg">Loading profile...</p>
-//         ) : (
-//           <>
-//             <motion.img
-//               src={formData.avatar}
-//               alt="User Avatar"
-//               className="w-40 h-40 rounded-full mx-auto mb-6 border-4 border-blue-500"
-//               whileHover={{ scale: 1.1 }}
-//             />
-
-//             {/* Name Field */}
-//             <div className="flex items-center justify-center gap-3 text-2xl">
-//               <User size={28} />
-//               {isEditing ? (
-//                 <input
-//                   type="text"
-//                   name="name"
-//                   value={formData.name}
-//                   onChange={handleChange}
-//                   className="bg-gray-800 text-white px-4 py-2 rounded-lg w-3/4 text-center text-xl"
-//                 />
-//               ) : (
-//                 <h2 className="text-2xl font-semibold">{formData.name}</h2>
-//               )}
-//             </div>
-
-//             <p className="text-gray-400 text-lg mt-1">User Role</p>
-
-//             <div className="flex flex-col items-center mt-6 space-y-3 text-lg">
-//               <div className="flex items-center gap-3 text-gray-300">
-//                 <Mail size={24} />
-//                 {isEditing ? (
-//                   <input
-//                     type="text"
-//                     name="email"
-//                     value={formData.email}
-//                     onChange={handleChange}
-//                     className="bg-gray-800 text-white px-4 py-2 rounded-lg w-full text-lg"
-//                   />
-//                 ) : (
-//                   <p>{formData.email}</p>
-//                 )}
-//               </div>
-
-//               <div className="flex items-center gap-3 text-gray-300">
-//                 <Globe size={24} />
-//                 {isEditing ? (
-//                   <input
-//                     type="text"
-//                     name="website"
-//                     value={formData.website}
-//                     onChange={handleChange}
-//                     className="bg-gray-800 text-white px-4 py-2 rounded-lg w-full text-lg"
-//                   />
-//                 ) : (
-//                   <p>{formData.website}</p>
-//                 )}
-//               </div>
-//             </div>
-
-//             <div className="bg-gray-800 p-6 rounded-xl mt-8 w-full text-lg">
-//               <h3 className="text-xl font-semibold text-white mb-3">Wishlist</h3>
-
-//               <div className="flex items-center gap-3 text-gray-300">
-//                 <Flag size={24} />
-//                 <span>Country:</span>
-//                 {isEditing ? (
-//                   <input
-//                     type="text"
-//                     name="country"
-//                     value={formData.country}
-//                     onChange={handleChange}
-//                     className="bg-gray-700 text-white px-4 py-2 rounded-lg w-full text-lg"
-//                   />
-//                 ) : (
-//                   <p>{formData.country}</p>
-//                 )}
-//               </div>
-
-//               <div className="flex items-center gap-3 text-gray-300 mt-2">
-//                 <BookOpen size={24} />
-//                 <span>Field of Study:</span>
-//                 {isEditing ? (
-//                   <input
-//                     type="text"
-//                     name="fieldOfStudy"
-//                     value={formData.fieldOfStudy}
-//                     onChange={handleChange}
-//                     className="bg-gray-700 text-white px-4 py-2 rounded-lg w-full text-lg"
-//                   />
-//                 ) : (
-//                   <p>{formData.fieldOfStudy}</p>
-//                 )}
-//               </div>
-
-//               <div className="flex items-center gap-3 text-gray-300 mt-2">
-//                 <GraduationCap size={24} />
-//                 <span>Type of Program:</span>
-//                 {isEditing ? (
-//                   <input
-//                     type="text"
-//                     name="programType"
-//                     value={formData.programType}
-//                     onChange={handleChange}
-//                     className="bg-gray-700 text-white px-4 py-2 rounded-lg w-full text-lg"
-//                   />
-//                 ) : (
-//                   <p>{formData.programType}</p>
-//                 )}
-//               </div>
-//             </div>
-
-//             <motion.button
-//               className="mt-8 bg-blue-500 hover:bg-blue-600 text-white text-lg px-6 py-3 rounded-xl flex items-center gap-3"
-//               onClick={handleEdit}
-//               whileHover={{ scale: 1.05 }}
-//             >
-//               {isEditing ? <Save size={24} /> : <Edit3 size={24} />}
-//               {isEditing ? "Save Changes" : "Edit Profile"}
-//             </motion.button>
-//           </>
-//         )}
-//       </motion.div>
-//     </div>
-//   );
-// }
-
-
-
-
-
-
-//backend
+//backend integrated
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { User, Mail, Globe, Flag, BookOpen, GraduationCap, Edit3, Save } from "lucide-react";
+import {
+  User,
+  Mail,
+  Globe,
+  Flag,
+  BookOpen,
+  GraduationCap,
+  Edit3,
+  Save,
+} from "lucide-react";
 
 export default function Profile() {
   const dummyUser = {
@@ -210,7 +30,9 @@ export default function Profile() {
   const [formData, setFormData] = useState(dummyUser);
 
   const generateAvatar = (name) => {
-    return `https://api.dicebear.com/7.x/bottts/svg?seed=${name.replace(/\s+/g, "").toLowerCase()}`;
+    return `https://api.dicebear.com/7.x/bottts/svg?seed=${name
+      .replace(/\s+/g, "")
+      .toLowerCase()}`;
   };
 
   useEffect(() => {
@@ -297,20 +119,26 @@ export default function Profile() {
 
         console.log("Sending update request with data:", updateData); // Log the data being sent
 
-        const res = await fetch("http://localhost:5000/api/auth/update-profile", {
-          method: "PUT",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: token,
-          },
-          body: JSON.stringify(updateData),
-        });
+        const res = await fetch(
+          "http://localhost:5000/api/auth/update-profile",
+          {
+            method: "PUT",
+            headers: {
+              "Content-Type": "application/json",
+              Authorization: token,
+            },
+            body: JSON.stringify(updateData),
+          }
+        );
 
         console.log("Response status:", res.status); // Log the response status
 
         if (!res.ok) {
           const errorData = await res.json();
-          console.error("Error updating profile:", errorData.message || "Unknown error");
+          console.error(
+            "Error updating profile:",
+            errorData.message || "Unknown error"
+          );
           return;
         }
 
@@ -406,7 +234,9 @@ export default function Profile() {
             </div>
 
             <div className="bg-gray-800 p-6 rounded-xl mt-8 w-full text-lg">
-              <h3 className="text-xl font-semibold text-white mb-3">Wishlist</h3>
+              <h3 className="text-xl font-semibold text-white mb-3">
+                Wishlist
+              </h3>
 
               <div className="flex items-center gap-3 text-gray-300">
                 <Flag size={24} />

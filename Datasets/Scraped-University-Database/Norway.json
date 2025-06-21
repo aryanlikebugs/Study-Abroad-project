@@ -1,0 +1,178 @@
+[
+    {
+      "_id": "67e706a70ff6c668843c007a",
+      "collegeName": "Nord University",
+      "location": "Bodø,Nordland,Norway67°17′15″N14°33′30″E / 67.28750°N 14.55833°E /67.28750; 14.55833",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c007b",
+      "collegeName": "Norwegian University of Life Sciences",
+      "location": "Ås,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c007c",
+      "collegeName": "Norwegian University of Science and Technology",
+      "location": "TrondheimÅlesundGjøvik,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c007d",
+      "collegeName": "OsloMet - Oslo Metropolitan University",
+      "location": "OsloandKjeller,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c007e",
+      "collegeName": "University of Agder",
+      "location": "Kristiansand&Grimstad,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c007f",
+      "collegeName": "University of Bergen",
+      "location": "Bergen,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c0080",
+      "collegeName": "University of Inland Norway",
+      "location": "Innlandet,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c0081",
+      "collegeName": "University of Oslo",
+      "location": "Oslo,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c0082",
+      "collegeName": "University of South-Eastern Norway",
+      "location": "Bø in Telemark,Porsgrunn,Notodden,Rauland,Drammen,Hønefoss,Kongsberg,Horten,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c0083",
+      "collegeName": "University of Stavanger",
+      "location": "Stavanger,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    },
+    {
+      "_id": "67e706a70ff6c668843c0084",
+      "collegeName": "The Arctic University of Norway",
+      "location": "Tromsø,Alta,Hammerfest,HarstadandNarvik,Norway",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "DAAD Scholarship",
+        "Erasmus+ Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized high school/bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet specific course prerequisites."
+    }
+  ]

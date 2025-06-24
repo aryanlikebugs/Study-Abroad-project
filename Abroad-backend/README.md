@@ -254,6 +254,26 @@ If you have scraped university data in JSON format, you can add it to the MongoD
 
 ---
 
+## 📦 Tech Stack
+
+- Express.js
+- MongoDB
+- React (Frontend not required for this session)
+- Jest (Testing)
+- Supertest
+
+## 🧪 Testing Summary
+
+- ✅ Unit & API tests written using Jest + Supertest
+- ✅ Achieved **73%+** statement coverage
+- ✅ Included integration testing with MongoDB
+
+### 🖼️ Test Coverage Screenshot
+
+![Test Coverage](./screenshots/test-coverage.png)
+
+---
+
 ## Frontend
 
 The frontend documentation is available in the [Abroad Frontend README](../Abroad-frontend/README.md).

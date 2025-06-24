@@ -185,4 +185,7 @@ Project-Study_Abroad/
 
 ---
 
+▶️ **Tests and coverage reports are available in [`/Abroad-backend`](./Abroad-backend) (see the `tests/` directory and README for details).**
+
+
 

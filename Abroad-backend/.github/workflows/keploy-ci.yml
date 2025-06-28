@@ -9,6 +9,12 @@ jobs:
   run-keploy-api-tests:
     runs-on: ubuntu-latest
 
+    services:
+      mongo:
+        image: mongo
+        ports:
+          - 27017:27017
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -32,5 +38,4 @@ jobs:
 
       - name: Run Keploy Test Suite
         run: |
-          # Replace the APP_ID below with your actual Keploy app ID from the dashboard
           keploy test-suite --app=Gv+mBKFJRMY37UqISw== --base-path=http://localhost:5000 --cloud

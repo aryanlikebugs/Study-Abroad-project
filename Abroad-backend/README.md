@@ -274,6 +274,18 @@ If you have scraped university data in JSON format, you can add it to the MongoD
 
 ---
 
+## 🧪 Keploy AI-Generated API Tests
+
+We used Keploy to generate API test cases from existing requests.  
+Out of 125 tests generated:
+- ✅ 20 tests were accepted  
+- ❌ 105 tests were rejected (due to insufficient data or failure cases)
+
+### 📷 Test Suite Screenshot:
+![Keploy Test Suite](./screenshots/keploy%20test-suite.png)
+
+---
+
 ## Frontend
 
 The frontend documentation is available in the [Abroad Frontend README](../Abroad-frontend/README.md).

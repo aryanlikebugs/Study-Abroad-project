@@ -1,63 +1,36 @@
-name: Keploy API Test
+name: Keploy Cloud API Tests
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   pull_request:
 
 jobs:
-  keploy-tests:
+  run-keploy-api-tests:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Start backend server
-      run: |
-        nohup npm start &
-        sleep 10
+      - name: Start backend server
+        run: |
+          nohup npm start &
+          sleep 10
 
-    - name: Run Keploy Tests
-      run: |
-        curl -L https://raw.githubusercontent.com/keploy/keploy/main/install.sh | bash
+      - name: Install Keploy CLI
+        run: |
+          curl --silent -L https://keploy.io/ent/install.sh | bash
 
-        # Register a user
-        curl -X POST http://localhost:5000/api/auth/register \
-          -H "Content-Type: application/json" \
-          -d '{"name":"Test User","email":"testuser@keploy.com","password":"test123"}'
-
-        # Login to get token
-        TOKEN=$(curl -s -X POST http://localhost:5000/api/auth/login \
-          -H "Content-Type: application/json" \
-          -d '{"email":"testuser@keploy.com","password":"test123"}' | jq -r .token)
-
-        # Get user data (protected)
-        curl -X GET http://localhost:5000/api/auth/get_user \
-          -H "Authorization: $TOKEN"
-
-        # Update profile (protected)
-        curl -X PUT http://localhost:5000/api/auth/update-profile \
-          -H "Authorization: $TOKEN" \
-          -H "Content-Type: application/json" \
-          -d '{"name":"Updated User","website":"https://keploy.com","wishlist":{"country":"USA","fieldOfStudy":"AI","programType":"Masters"}}'
-
-        # Add universities
-        curl -X POST http://localhost:5000/api/auth/add-universities \
-          -H "Content-Type: application/json" \
-          -d '[{"collegeName":"Keploy University","location":"Internet","coursesOffered":["Testing"],"scholarshipsOffered":["Open Source"],"eligibilityCriteriaForInternationalStudents":"None"}]'
-
-        # Get all universities
-        curl -X GET http://localhost:5000/api/auth/universities
-
-        # Optionally, run Keploy in record mode for all above
-        # keploy record -c "<all above curl commands>" -appCmd "npm start" -delay 10
+      - name: Run Keploy Test Suite
+        run: |
+          # Replace the APP_ID below with your actual Keploy app ID from the dashboard
+          keploy test-suite --app=Gv+mBKFJRMY37UqISw== --base-path=http://localhost:5000 --cloud

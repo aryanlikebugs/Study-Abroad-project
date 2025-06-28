@@ -42,4 +42,4 @@ jobs:
       - name: Run Keploy Test Suite
         run: |
           cd Abroad-backend
-          keploy test-suite --app=Gv+mBKFJRMY37UqISw== --base-path=http://localhost:5000
+          keploy test-suite --base-path=http://localhost:5000

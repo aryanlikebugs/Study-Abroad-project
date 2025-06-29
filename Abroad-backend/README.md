@@ -293,7 +293,7 @@ Keploy test suite is integrated into the CI/CD pipeline using GitHub Actions.
 
 ### 📂 Keploy Screenshots
 
-- [Keploy Test Suite](./screenshots/keploy-test-suite.png)
+- [Keploy Test Suite](./screenshots/keploy%20test-suite.png)
 - [Keploy Test Report](./screenshots/keploy-test-report.png)
 - [CI/CD Pipeline Run](./screenshots/CI-CD-pipeline.png)
 

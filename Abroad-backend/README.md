@@ -280,9 +280,22 @@ We used Keploy to generate API test cases from existing requests.
 Out of 125 tests generated:
 - ✅ 20 tests were accepted  
 - ❌ 105 tests were rejected (due to insufficient data or failure cases)
+---
 
-### 📷 Test Suite Screenshot:
-![Keploy Test Suite](./screenshots/keploy%20test-suite.png)
+## ✅ Keploy API Testing with CI/CD
+
+Keploy test suite is integrated into the CI/CD pipeline using GitHub Actions.
+
+- **Keploy App ID:** `5b8f6e57-7840-4cb8-b2e3-7b98592033ae`
+- **Base URL:** `https://b333-152-58-134-186.ngrok-free.app`
+
+> The test suite runs automatically on every push to `main` and ensures robust API testing using AI.
+
+### 📂 Keploy Screenshots
+
+- [Keploy Test Suite](./screenshots/keploy-test-suite.png)
+- [Keploy Test Report](./screenshots/keploy-test-report.png)
+- [CI/CD Pipeline Run](./screenshots/CI-CD-pipeline.png)
 
 ---
 
